@@ -4,7 +4,7 @@
 This dashboard provides a focused analysis of **shipping and sales performance**, tracking order quantities, discounts, revenue, and carrier performance. Built using **Power BI** with **Power Query** for data transformation and **Figma** for prototyping, the dashboard enables logistics and sales managers to monitor shipping partner performance, identify top customers, and optimize discount strategies.
 
 ## 🖥️ Dashboard Preview
-![Dashboard](Images/dashboard.png)
+![Dashboard](image.png)
 
 ## 🎯 Objectives
 - Monitor total quantity, average discount, total discount value, and total sales.
